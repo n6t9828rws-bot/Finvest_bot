@@ -1,0 +1,1 @@
+worker: python finvest_bot_v5.py
